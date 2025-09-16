@@ -7,7 +7,7 @@ class Calculator
         bool exit = false;
         double result = 0.0;
 
-        Console.WriteLine("🎯 КАЛЬКУЛЯТОР");
+        Console.WriteLine(" КАЛЬКУЛЯТОР");
         Console.WriteLine("==============");
 
         while (!exit)
